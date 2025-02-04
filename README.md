@@ -119,4 +119,3 @@ This will run all the test cases in the `tests/` directory, ensuring that each c
 
 
 **ScoreSage** is designed to be a comprehensive tool for predicting student performance, making it easier for educators and administrators to identify students who may need additional support. Enjoy using ScoreSage!
-```
